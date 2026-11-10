@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TSHDM_7S5_P2Prac1_DAZC</string>
+    <string name="p1titulo">Manejo de Componentes views</string>
+    <string name="p1btn_1">Primer boton</string>
+    <string name="p1btn_2">Segundo boton</string>
+
+    <string-array name="estados">
+        <item>Chihuahua</item>
+        <item>Estado De Mexico</item>
+        <item>Ciudad de Mexico</item>
+        <item>Puebla</item>
+        <item>Oaxaca</item>
+    </string-array>
+</resources>
